@@ -1,5 +1,7 @@
 # Projeto Coffee Delivery | Rocketseat
 
+### [Veja online](https://coffee-delivery-mocha.vercel.app/)
+
 Projeto desenvolvido no desafio da Rocketseat que consistia em treinar os conceitos apreendidos. Nele foi desenvolvido uma aplicação que gerencia um carrinho de 
 compras de uma cafeteria fictícia, que contém as seguintes funcionalidades:
 
