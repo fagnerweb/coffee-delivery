@@ -1,0 +1,33 @@
+{
+  "name": "02-desafio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.9.10",
+    "@radix-ui/react-radio-group": "^1.1.0",
+    "phosphor-react": "^1.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.39.4",
+    "react-router-dom": "^6.4.3",
+    "styled-components": "^5.3.6",
+    "uuid": "^9.0.0",
+    "zod": "^3.19.1"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^1.1.3",
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@types/styled-components": "^5.1.26",
+    "@types/uuid": "^8.3.4",
+    "@vitejs/plugin-react": "^2.2.0",
+    "typescript": "^4.6.4",
+    "vite": "^3.2.3"
+  }
+}
